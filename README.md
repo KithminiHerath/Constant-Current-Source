@@ -1,2 +1,3 @@
 # Constant-Current-Source
-A project carried out for the module EN2090 - Laboratory Practice II
+
+The proposed project was to design a constant current source to charge a typical 12V lead acid battery by a constant current of 1A. All the typical lead acid battery chargers have the common issue of the high thermal energy dissipation and in this project our intention was to minimize this common issue as much as possible. To address this issue, a Pulse Width Modulated (PWM) signal was generated, which was used to switch a MOSFET and thus provide the required current and a feedback signal was sent to the PWM generator circuit to ensure a 1A constant current output to the load.
