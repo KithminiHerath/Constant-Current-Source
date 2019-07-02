@@ -9,3 +9,6 @@ This project consists of 4 stages and they are:
 * **Feedback signal amplification stage** - the voltage of a constant resistor in series with the charging load was used as a shunt resistor for an instrumentaion amplifier to amplify the feedback signal. This signal was directed to stage 2 to generate the required PWM signal to ensure a constant current across the load until it has been completely charged.
 
 At the end of the constant current charging of the load, the supply will be switched off.
+
+The full circuit is shown below:
+![image](https://github.com/KithminiHerath/Constant-Current-Source/blob/master/Images/Final-Circuit.png)
